@@ -1,0 +1,86 @@
+body {
+  font-family: Arial, sans-serif;
+  text-align: center;
+}
+
+header {
+  background-color: #f06514;
+  padding: 20px 0;
+}
+
+.menu {
+  margin-top: 20px;
+}
+
+button {
+  padding: 10px 20px;
+  background-color: #f8d49d;
+  border: none;
+  cursor: pointer;
+  margin-bottom: 10px;
+}
+
+footer {
+  position: auto;
+  bottom: 0;
+  width: 100%;
+  background-color: #f06514;
+  padding: 10px 0;
+}
+body {
+  background-color: black;
+  color: white;
+}
+
+.btn-primary {
+  background-color: darkred;
+  border-color: darkred;
+}
+
+.btn-secondary {
+  background-color: darkred;
+  border-color: darkred;
+}
+
+.btn-primary:hover,
+.btn-primary:focus {
+  background-color: whitesmoke;
+  border-color: whitesmoke;
+}
+
+.btn-secondary:hover,
+.btn-secondary:focus {
+  background-color: darkyellow;
+  border-color: darkyellow;
+}
+
+.card {
+  background-color: #222;
+  color: white;
+}
+.logo{
+  border-radius: 40px;
+  width: 80px;
+  height:80px;
+  margin-right: 20px;
+}
+.text-center{
+  color: rgb(228, 226, 226);
+  
+}
+.bt{
+  background-color: darkred;
+}
+.titulom{
+  text-align: center;
+  margin-left: 185px;
+}
+.nav a{
+  background-color: rgb(189, 9, 9);
+  margin: 11px;
+  color: white;
+  border-radius: 5px;
+}
+footer a{
+  color:darkred
+}
